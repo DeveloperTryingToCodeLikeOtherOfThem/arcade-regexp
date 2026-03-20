@@ -1,5 +1,3 @@
-
-
 namespace helpers {
   export function getRegExpByName(name: string) {
     // let regexplit = "/" + name + "/"; format for the reg expression
